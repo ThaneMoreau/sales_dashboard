@@ -1,0 +1,16 @@
+*.log
+*.pot
+*.pyc
+__pycache__
+pip-log.txt 
+pip-delete-this-directory.txt 
+venv/ 
+venv.bak/ 
+*vscode*
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
+*.code-workspace
