@@ -1,6 +1,5 @@
 # Sales dashboard
 
-___
 
 ## Description
 Microservice, which have a REST interface with two endpoints. The first endpoint  calls by the checkout service whenever a new payment is received and the second endpoint  provides statistics about the total
