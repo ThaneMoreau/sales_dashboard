@@ -1,11 +1,12 @@
-#Sales dashboard
+# Sales dashboard
+
 ___
 
-##Description
+## Description
 Microservice, which have a REST interface with two endpoints. The first endpoint  calls by the checkout service whenever a new payment is received and the second endpoint  provides statistics about the total
 order amount and average amount per order for the last 60 seconds.
 
-##Set environoment
+## Set environoment
 Python required version: 3.7.*
 
     cd sales_dashboard
@@ -14,7 +15,7 @@ Python required version: 3.7.*
     python -m pip install -U pip
     pip install -r requirements.txt
 
-##Run  application
+## Run  application
 Run app.py from app directory:
 
     cd app
